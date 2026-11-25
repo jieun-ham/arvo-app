@@ -1,0 +1,18 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="79.5901" height="79.5898" viewBox="0 0 79.5901 79.5898" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Location">
+<foreignObject x="-61.8134" y="-61.8136" width="203.217" height="203.217"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(30.91px);clip-path:url(#bgblur_0_0_444_clip_path);height:100%;width:100%"></div></foreignObject><path id="Oval" data-figma-bg-blur-radius="61.8136" d="M39.7951 79.5898C61.7733 79.5898 79.5901 61.773 79.5901 39.7949C79.5901 17.8168 61.7733 0 39.7951 0C17.817 0 0.000230867 17.8168 0.000230867 39.7949C0.000230867 61.773 17.817 79.5898 39.7951 79.5898Z" fill-rule="evenodd" clip-rule="evenodd" fill="white" fill-opacity="0.52"/>
+<foreignObject x="-43.6214" y="-43.6216" width="169.107" height="169.107"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(30.91px);clip-path:url(#bgblur_1_0_444_clip_path);height:100%;width:100%"></div></foreignObject><g id="Oval_2" data-figma-bg-blur-radius="61.8136">
+<use xlink:href="#stroke0_0_444" fill="white" fill-opacity="0.52"/>
+<mask id="stroke1_0_444" fill="white">
+<use xlink:href="#stroke0_0_444"/>
+</mask>
+<path d="M40.9322 63.6719C53.4911 63.6719 63.6721 53.4909 63.6721 40.9319C63.6721 28.373 53.4911 18.192 40.9322 18.192C28.3732 18.192 18.1922 28.373 18.1922 40.9319C18.1922 53.4909 28.3732 63.6719 40.9322 63.6719Z" stroke-width="4.54799" stroke="#C5AAFF" mask="url(#stroke1_0_444)"/>
+</g>
+<path id="Oval_3" d="M40.9314 50.0271C45.9549 50.0271 50.0274 45.9547 50.0274 40.9311C50.0274 35.9076 45.9549 31.8352 40.9314 31.8352C35.9078 31.8352 31.8354 35.9076 31.8354 40.9311C31.8354 45.9547 35.9078 50.0271 40.9314 50.0271Z" fill-rule="evenodd" clip-rule="evenodd" fill="#C5AAFF"/>
+</g>
+<defs>
+<clipPath id="bgblur_0_0_444_clip_path" transform="translate(61.8134 61.8136)"><path fill-rule="evenodd" clip-rule="evenodd" d="M39.7952 79.5898C61.7733 79.5898 79.5901 61.773 79.5901 39.7949C79.5901 17.8168 61.7733 0 39.7952 0C17.817 0 0.000230867 17.8168 0.000230867 39.7949C0.000230867 61.773 17.817 79.5898 39.7952 79.5898Z"/>
+</clipPath><clipPath id="bgblur_1_0_444_clip_path" transform="translate(43.6214 43.6216)"><path d="M40.9324 19.3287C52.8633 19.3289 62.535 29.0013 62.535 40.9322C62.5348 52.863 52.8632 62.5346 40.9324 62.5348C29.0016 62.5348 19.3291 52.8631 19.3289 40.9322C19.3289 29.0012 29.0015 19.3287 40.9324 19.3287Z"/>
+</clipPath><path id="stroke0_0_444" d="M40.9322 63.6719C53.4911 63.6719 63.6721 53.4909 63.6721 40.9319C63.6721 28.373 53.4911 18.192 40.9322 18.192C28.3732 18.192 18.1922 28.373 18.1922 40.9319C18.1922 53.4909 28.3732 63.6719 40.9322 63.6719Z" fill-rule="evenodd" clip-rule="evenodd"/>
+</defs>
+</svg>

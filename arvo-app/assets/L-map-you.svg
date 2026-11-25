@@ -1,0 +1,18 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="79.5899" height="79.5898" viewBox="0 0 79.5899 79.5898" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Location">
+<foreignObject x="-61.8136" y="-61.8136" width="203.217" height="203.217"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(30.91px);clip-path:url(#bgblur_0_0_352_clip_path);height:100%;width:100%"></div></foreignObject><path id="Oval" data-figma-bg-blur-radius="61.8136" d="M39.7949 79.5898C61.773 79.5898 79.5898 61.773 79.5898 39.7949C79.5898 17.8168 61.773 0 39.7949 0C17.8168 0 0 17.8168 0 39.7949C0 61.773 17.8168 79.5898 39.7949 79.5898Z" fill-rule="evenodd" clip-rule="evenodd" fill="#B795FF"/>
+<foreignObject x="-43.6216" y="-43.6216" width="169.107" height="169.107"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(30.91px);clip-path:url(#bgblur_1_0_352_clip_path);height:100%;width:100%"></div></foreignObject><g id="Oval_2" data-figma-bg-blur-radius="61.8136">
+<use xlink:href="#stroke0_0_352" fill="#B795FF"/>
+<mask id="stroke1_0_352" fill="white">
+<use xlink:href="#stroke0_0_352"/>
+</mask>
+<path d="M40.9319 63.6719C53.4909 63.6719 63.6719 53.4909 63.6719 40.9319C63.6719 28.373 53.4909 18.192 40.9319 18.192C28.373 18.192 18.192 28.373 18.192 40.9319C18.192 53.4909 28.373 63.6719 40.9319 63.6719Z" stroke-width="4.54799" stroke="#6938D3" mask="url(#stroke1_0_352)"/>
+</g>
+<path id="Oval_3" d="M40.9311 50.0271C45.9547 50.0271 50.0271 45.9547 50.0271 40.9311C50.0271 35.9076 45.9547 31.8352 40.9311 31.8352C35.9076 31.8352 31.8352 35.9076 31.8352 40.9311C31.8352 45.9547 35.9076 50.0271 40.9311 50.0271Z" fill-rule="evenodd" clip-rule="evenodd" fill="#6938D3"/>
+</g>
+<defs>
+<clipPath id="bgblur_0_0_352_clip_path" transform="translate(61.8136 61.8136)"><path fill-rule="evenodd" clip-rule="evenodd" d="M39.7949 79.5898C61.773 79.5898 79.5898 61.773 79.5898 39.7949C79.5898 17.8168 61.773 0 39.7949 0C17.8168 0 0 17.8168 0 39.7949C0 61.773 17.8168 79.5898 39.7949 79.5898Z"/>
+</clipPath><clipPath id="bgblur_1_0_352_clip_path" transform="translate(43.6216 43.6216)"><path d="M40.9322 19.3287C52.8631 19.3289 62.5348 29.0013 62.5348 40.9322C62.5346 52.863 52.863 62.5346 40.9322 62.5348C29.0013 62.5348 19.3289 52.8631 19.3287 40.9322C19.3287 29.0012 29.0012 19.3287 40.9322 19.3287Z"/>
+</clipPath><path id="stroke0_0_352" d="M40.9319 63.6719C53.4909 63.6719 63.6719 53.4909 63.6719 40.9319C63.6719 28.373 53.4909 18.192 40.9319 18.192C28.373 18.192 18.192 28.373 18.192 40.9319C18.192 53.4909 28.373 63.6719 40.9319 63.6719Z" fill-rule="evenodd" clip-rule="evenodd"/>
+</defs>
+</svg>
